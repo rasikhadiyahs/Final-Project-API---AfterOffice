@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - PATCH Update User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36b16bfc-c6ed-45b7-957c-0120af5d5f1f</testCaseGuid>
+</TestCaseEntity>
